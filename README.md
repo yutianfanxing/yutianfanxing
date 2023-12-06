@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yutianfanxing
-- 👀 I’m interested in java/python/c++
+- 👀 I’m interested in java/golang/python/
 - 🌱 I’m currently learning java and machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
